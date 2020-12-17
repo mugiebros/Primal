@@ -7,7 +7,7 @@ programme sequentielle pour déterminer si un nombre est premier
 """
 import math
 import sys
-from typing import NoReturn
+from typing import NoReturn, List
 import colorama
 from colorama import Fore
 colorama.init()
@@ -40,13 +40,13 @@ def est_premier_séq(nombre: int) -> bool:
             if nombre % n == 0:
                 return False
     return True
-def main() -> None:
+def main(argv: List[str]) -> None:
     début = timer()
     """Fonction principale"""
-    if len(sys.argv[1:]) <= 0:
+    if len(argv[1:]) <= 0:
         exexit(IndexError("La commande doit avoir au moins un argument"))
     try:
-        if est_premier_séq(int(''.join(sys.argv[1:]))):
+        if est_premier_séq(int(''.join(argv[1:]))):
             print(Fore.CYAN + "Selon Austin Brodeur: "+Fore.RESET+"Oui")
             print(Fore.YELLOW + "Durée:",timer() - début, "sec")
         else:
@@ -63,4 +63,4 @@ def main() -> None:
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
