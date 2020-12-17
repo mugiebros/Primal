@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a000f127-f760-4e0a-a4f1-c8f36f45d75f" name="Default Changelist" comment="fin mp">
+    <list default="true" id="a000f127-f760-4e0a-a4f1-c8f36f45d75f" name="Default Changelist" comment="fin options">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/est_premier_mp.py" beforeDir="false" afterPath="$PROJECT_DIR$/est_premier_mp.py" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../semaine 12/Somme" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608172865867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fin options">
+      <created>1608174170106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608174170106</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,13 +109,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dbut" />
     <MESSAGE value="fin mp" />
-    <option name="LAST_COMMIT_MESSAGE" value="fin mp" />
+    <MESSAGE value="fin options" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin options" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608154461743">
+    <state x="586" y="198" key="#Inspections" timestamp="1608174548270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608154461743" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608174548270" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608176697719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608176697719" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1608163209897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -121,10 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608163479933" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608172867765">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608174171682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608172867765" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608174171682" />
     <state x="623" y="225" key="search.everywhere.popup" timestamp="1608154262850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
